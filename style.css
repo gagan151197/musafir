@@ -1,0 +1,48 @@
+h1{
+	color: red;
+	text-align: center;
+	background-color: white;
+}
+p{
+}
+img{
+	width: 35%;
+	margin-top: 50px;
+
+
+}
+
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 100px;
+}
+header{
+	background-color: black;
+	padding: 10px;
+}
+li a {
+	color: white;
+	text-decoration: none;
+}
+
+li a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+footer{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
+
+.special_para{
+	font-size: 17px;
+}
+.latest{
+	font-size: 24px;
+}
